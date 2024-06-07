@@ -1,9 +1,6 @@
-/*
- █▀▀█ █░▒█ █▀▀▀ █▀▀▀ █▄░▒█       █▀▀▀ █░░░ ▀█▀ █▀▀▀█ █▀▀█
- █░▒█ █░▒█ █▀▀▀ █▀▀▀ █▒█▒█       █▀▀▀ █░░░ ░█░ ▀▀▀▄▄ █▄▄█
- ▀▀█▄ ▀▄▄▀ █▄▄▄ █▄▄▄ █░░▀█       █▄▄▄ █▄▄█ ▄█▄ █▄▄▄█ █░▒█
 
-WHATSAPP BOT by Marisel ( DARK MAKER OFC )
+
+WHATSAPP BOT by Marisel 
 
 WHATSAPP - 0740007567
 SUPPORT GROUP - https://t.me/queenelisasupport
