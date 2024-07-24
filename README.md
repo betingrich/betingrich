@@ -22,51 +22,8 @@
    <h1 align="center"                  
 
 
-
-***
-
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-</a></p>
-- <a href="https://sessiongenerator-bf610e36ed37.herokuapp.com/"><img title="GET SESSION OPT 1" src="https://img.shields.io/badge/GET SESSION OPT 1-h?color=pink&style=for-the-badge&logo=Bugatti" width="220" height="38.45"/></a></p>
-
-
-- <a href="https://sessiongenerator-bf610e36ed37.herokuapp.com/"><img title="GET SESSION OPT 2" src="https://img.shields.io/badge/GET SESSION OPT 2-h?color=red&style=for-the-badge&logo=Bugatti" width="220" height="38.45"/></a></p>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 </p>
 
-- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/betingrich/JEEP&template=https://github.com/betingrich/JEEP"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
-
-
-
-- <a href="https://toystack.ai/"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON TOYSTACK-h?color=orange&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
-
-
-
-- <a href="https://www.clever-cloud.com/"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON CLEVER-h?color=black&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
-
-</p>
-
-- <a href="https://render.com"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON RENDER-h?color=grey&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
-
-</p>
-
-- <a href="https://uptimerobot.com"><img title="Run it on uptime" src="https://img.shields.io/badge/RUN ON UPTIME-h?color=blue&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
-
-</p>
-
-- <a href="https://github.com/betingrich/JEEP"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=grey&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-</p>
-   
-##
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Join my channel for updates
 <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -135,28 +92,13 @@ I've drafted a professional "About Me" section tailored for your GitHub profile.
 
 👋 Hi there! I'm **Marisel** (GitHub: [betingrich](http://github.com/betingrich)), a passionate developer specializing in creating innovative bots and dynamic websites. My journey in software development has been driven by a love for coding and a constant quest to solve complex problems through technology.
 
-### Skills
-- **Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks & Libraries**: React, Node.js, Flask, Django
-- **Tools**: Git, Docker, GitHub Actions
-- **Areas of Expertise**: Bot Development, Web Development, Automation
-
-### Projects
-Here are a few projects that showcase my skills and interests:
-- **[Project Name 1](URL)**: A brief description of what this project does and why it's interesting.
-- **[Project Name 2](URL)**: Another project description highlighting your role and the technologies used.
-- **[Project Name 3](URL)**: One more project description with relevant details.
-
-### Contact
-- **Email**: [richardlughano930@gmail.com]
-- **LinkedIn**: [Your LinkedIn Profile]
 
 Feel free to explore my [repositories](https://github.com/betingrich?tab=repositories) and reach out if you have any questions or collaboration ideas. Let's create something amazing together!
 ### Hi there 👋
-[![MasterHead](https://i.imgur.com/AUF5CCo.jpeg)](https://github.com/naveeddogar)
+[![MasterHead](https://telegra.ph/file/3b20d3e67948683aff867.jpg)](https://github.com/betingrich)
 
 
-<h1 align="center"><b>нγ, Marisel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Marisel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <p align="center">
