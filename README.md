@@ -1,11 +1,11 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=BUGATTI+;A+WHATSAPP+BOT;CREATED+BY+MARISEL+KING" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=+MARISEL+KING" alt="Typing SVG" /></a>
 
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y">
     <img alt="wasi" height="300" src="https://telegra.ph/file/e59d381c89f105de86dc2.jpg">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-   <h1 align="center">BUGATTI</h1>
+   <h1 align="center">Marisel</h1>
   </a>
 </p>
 <p align="center">
@@ -139,7 +139,7 @@ Feel free to explore my [repositories](https://github.com/betingrich?tab=reposit
 
 <a href="http://wa.me/254740007567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="254740007567" height="30" width="40" /></a>
 
-<a href="https://youtube.com/@TechnicalNaveedOfficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
+<a href="https://youtube.com/@wemacomic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 
 </p>
 
