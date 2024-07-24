@@ -94,8 +94,13 @@ I've drafted a professional "About Me" section tailored for your GitHub profile.
 
 
 Feel free to explore my [repositories](https://github.com/betingrich?tab=repositories) and reach out if you have any questions or collaboration ideas. Let's create something amazing together!
-### Hi there 👋
-[![MasterHead](https://telegra.ph/file/3b20d3e67948683aff867.jpg)](https://github.com/betingrich)
+
+<p align="center">  
+  <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y">
+    <img alt="wasi" height="300" src="https://telegra.ph/file/3b20d3e67948683aff867.jpg">
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+   <h1 align="center">Marisel</h1>
+  </a>
 
 
 <h1 align="center"><b>Marisel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
