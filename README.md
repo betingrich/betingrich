@@ -3,7 +3,7 @@
 
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/e59d381c89f105de86dc2.jpg">
+    <img alt="wasi" height="300" src="https://telegra.ph/file/c425b0fd9ec4ab130c8f9.jpg">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    <h1 align="center">Marisel</h1>
   </a>
