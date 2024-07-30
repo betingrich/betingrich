@@ -10,14 +10,10 @@
 
 
 
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=+MARISEL+KING" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=+𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍" alt="Typing SVG" /></a>
 
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y">
-    <img alt="wasi" height="600" src="https://telegra.ph/file/0d3b89f01e8fccb260b45.jpg">
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    <h1 align="center">Marisel</h1>
   </a>
 </p>
