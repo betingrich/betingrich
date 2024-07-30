@@ -3,12 +3,10 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍;" alt="Typing SVG" /></a>
 
-![betingrich's Stats](https://github-readme-stats.vercel.app/api?username=betingrich&theme=blue-green&show_icons=true&hide_border=true&count_private=false)
-![betingrich's Streak](https://github-readme-streak-stats.herokuapp.com/?user=betingrich&theme=blue-green&hide_border=true)
+![Betingrich's Stats](https://github-readme-stats.vercel.app/api?username=betingrich&theme=blue-green&show_icons=true&hide_border=true&count_private=false)
+![Betingrich's Streak](https://github-readme-streak-stats.herokuapp.com/?user=betingrich&theme=blue-green&hide_border=true)
 
-![betingrich's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=betingrichh&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
-
-
+![Betingrich's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brashokish&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=+𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍" alt="Typing SVG" /></a>
 
